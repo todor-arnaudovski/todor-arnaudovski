@@ -2,11 +2,6 @@
   <a href="https://www.linkedin.com/in/todor-arnaudovski/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/todor-arnaudovski">
-    <img src="https://img.shields.io/badge/CodeWars-b0361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
-  </a>
-    <img src="https://img.shields.io/badge/CssBattle-ffdd00?style=for-the-badge&logo=" alt="CssBattle Badge"/>
-  </a>
 </div>
 
 </br>
