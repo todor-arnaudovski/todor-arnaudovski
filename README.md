@@ -22,7 +22,8 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  
+
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=DaisyUI&logoColor=white" />
   
